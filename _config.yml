@@ -5,6 +5,6 @@ title: "Physical Activity and Technology Challenge (PhysTech)"
 description: "blah blah blah"
 
 plugins:
-　　- jekyll-remote-theme 
+- jekyll-remote-theme 
 
 
