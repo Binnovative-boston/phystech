@@ -1,6 +1,6 @@
-# Physical Activity and Technology Challenge (PhysTech)
+# Physical Activity and Technology Challenge
 
-June 30, 2024
+The 1st Physical Activity and Technology Challenge (PhysTech 2024) will take place online at June 30, 2024.
 
 test test
 
