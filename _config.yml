@@ -3,8 +3,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 title: "Physical Activity and Technology Challenge (PhysTech)"
 title-short: PhysTech
-description: "blah blah blah"
-
+description: Physical Activity and Technology Challenge (PhysTech) is an international hackathon for ...
+logo: /images/logo.png
 show_downloads: false
 #google_analytics: 
 
