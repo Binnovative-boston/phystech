@@ -1,5 +1,10 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal@v0.2.0
+
 title: "Physical Activity and Technology Challenge (PhysTech)"
 description: "blah blah blah"
+
+plugins:
+　　- jekyll-remote-theme 
 
 
