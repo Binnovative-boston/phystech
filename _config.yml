@@ -2,6 +2,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 
 title: "Physical Activity and Technology Challenge (PhysTech)"
+title-short: PhysTech
 description: "blah blah blah"
 
 show_downloads: false
