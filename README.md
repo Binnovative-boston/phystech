@@ -16,12 +16,12 @@ Physical activity is any body movement that works your muscles and requires more
 PhysTech is a student-organized online hackathon for anyone who does, watches, analyzes or gamifies physical activities - including sports, fitness excercises and recreational practices. 
 
 PhysTech offers a platform for you to think of needs, wants and challenges as an athlete, coach, recreational player or fan and deliver creative solutions (hacks) with technology. 
+
 <!--
 that inspires you to think of needs, wants and challenges in interacting with animals. 
-
-
 It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
 -->
+
 PhysTech welcomes anyone of all ages and all technical skills, from limited experience to advanced. 
 
 Entry is free.
