@@ -29,10 +29,12 @@ Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
 - PhysTech 2024 (June 30, 2024)
 
+<a name="books"></a>
 ## Books
 
 We publish the proceedings of each PhysTech event as a book through Amazon Kindle Direct Publishing. Selected participants will be invited to extend their project abstracts and publish them as book chapters.
 
+<a name="organizers"></a>
 ## Organizers
 
 PhysTech 2024 (June 30, 2024)
@@ -41,6 +43,7 @@ PhysTech 2024 (June 30, 2024)
 - bbb
 - ccc
 
+<a name="merchandise"></a>
 ## Merchandise
 
 We run an online store where you can find gifts for yourself, a family member or a friend.  
