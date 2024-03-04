@@ -2,7 +2,6 @@
 
 We are a group of students from the New York and Boston areas who are enthusiastic about physical activities. We started PhysTech in 2024 because there was no hackathon avaialble at that time for presenting our projects. 
 
-
 <!-- fitness and wellbeing
 
  - sports, recreational activities and analytics
@@ -14,11 +13,16 @@ sports analytics
 
 Physical activity is any body movement that works your muscles and requires more energy than resting. Walking, running, dancing, swimming, yoga, and gardening are a few examples of physical activity. -->
 
-PhysTech is a student-organized online hackathon for anyone who does, watches or analyzes physical activities - including sports, fitness excercises and recreational practices. 
+PhysTech is a student-organized online hackathon for anyone who does, watches, analyzes or gamifies physical activities - including sports, fitness excercises and recreational practices. 
 
-AnimalHack offers a platform that inspires you to think of needs, wants and challenges in interacting with animals. It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
+PhysTech offers a platform for you to think of needs, wants and challenges as an athlete, coach, recreational player or fan and deliver creative solutions (hacks) with technology. 
+<!--
+that inspires you to think of needs, wants and challenges in interacting with animals. 
 
-AnimalHack welcomes anyone of all ages and all technical skills, from limited experience to advanced. 
+
+It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
+-->
+PhysTech welcomes anyone of all ages and all technical skills, from limited experience to advanced. 
 
 Entry is free.
 
@@ -39,12 +43,15 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 PhysTech 2024 (June 30, 2024)
 
-- aaa
-- bbb
-- ccc
+- Rei Nagata
+- Shun Nagata (Co-chair)
+- Sarasa Ouchi (Co-chair)
+- Hanna Suzuki
+- Nikichi Tsuchida
+- Uta Tsuchida
 
 <a name="merchandise"></a>
 ## Merchandise
 
-We run an online store where you can find gifts for yourself, a family member or a friend.  
+We run an online store where you can find gifts for yourself, family members and friends.  
 
