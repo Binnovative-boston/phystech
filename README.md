@@ -1,8 +1,20 @@
-# Physical Activity and Technology Hack Day
+# Physical Activity and Technology Hack Day (PhysTech)
 
-We are a group of students from the New York and Boston areas who were disappointed with the lack of international, open hackathons that focus on animals, so we started our own in 2023.
+We are a group of students from the New York and Boston areas who are enthusiastic about physical activities. We started PhysTech in 2024 because there was no hackathon avaialble at that time for presenting our projects. 
 
-AnimalHack is a student-organized online hackathon for anyone who interacts with any animals – including pets, service animals, farm animals and wild animals.
+
+<!-- fitness and wellbeing
+
+ - sports, recreational activities and analytics
+fitness workout, 
+
+love practice, watch and analyze physical activities 
+are enthusiastic about 
+sports analytics 
+
+Physical activity is any body movement that works your muscles and requires more energy than resting. Walking, running, dancing, swimming, yoga, and gardening are a few examples of physical activity. -->
+
+PhysTech is a student-organized online hackathon for anyone who does, watches or analyzes physical activity - including sports, fitness excercises and recreational practices. 
 
 AnimalHack offers a platform that inspires you to think of needs, wants and challenges in interacting with animals. It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
 
