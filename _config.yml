@@ -3,8 +3,13 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 title: "Physical Activity and Technology Challenge (PhysTech)"
 title-short: PhysTech
-description: Physical Activity and Technology Challenge (PhysTech) is an international hackathon for ...
+description: Physical Activity and Technology Hack Day (PhysTech) is an international hackathon for ...
+
 logo: /images/logo.png
+devpost_url: https://animalhack-2023.devpost.com/
+discord_url: https://discord.com/invite/ZBbTxuxND2
+email: 
+
 show_downloads: false
 #google_analytics: 
 
