@@ -14,7 +14,7 @@ sports analytics
 
 Physical activity is any body movement that works your muscles and requires more energy than resting. Walking, running, dancing, swimming, yoga, and gardening are a few examples of physical activity. -->
 
-PhysTech is a student-organized online hackathon for anyone who does, watches or analyzes physical activity - including sports, fitness excercises and recreational practices. 
+PhysTech is a student-organized online hackathon for anyone who does, watches or analyzes physical activities - including sports, fitness excercises and recreational practices. 
 
 AnimalHack offers a platform that inspires you to think of needs, wants and challenges in interacting with animals. It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
 
@@ -22,6 +22,7 @@ AnimalHack welcomes anyone of all ages and all technical skills, from limited ex
 
 Entry is free.
 
+<a name="events"></a>
 ## Events
 
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
