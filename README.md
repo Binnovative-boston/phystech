@@ -46,6 +46,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 PhysTech 2024 (June 30, 2024)
 
+- Hiroki Kudara
 - Rei Nagata
 - Shun Nagata (Co-chair)
 - Sarasa Ouchi (Co-chair)
