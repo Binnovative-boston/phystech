@@ -10,12 +10,15 @@ fitness workout,
 love practice, watch and analyze physical activities 
 are enthusiastic about 
 sports analytics 
+-->
 
-Physical activity is any body movement that works your muscles and requires more energy than resting. Walking, running, dancing, swimming, yoga, and gardening are a few examples of physical activity. -->
+PhysTech is a student-organized online hackathon for anyone who does, watches, analyzes and promotes any physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. 
 
-PhysTech is a student-organized online hackathon for anyone who does, watches, analyzes or gamifies physical activities - including sports, fitness excercises and recreational practices. 
+Any sports and physical training are in. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not! 
 
-PhysTech offers a platform for you to think of needs, wants and challenges as an athlete, coach, recreational player or fan and deliver creative solutions (hacks) with technology. 
+Not only athletes and recreational players/practitioners, but fans, coaches, referees/judges and analysts are also welcome. 
+
+PhysTech offers a platform for you to address needs, wants and challenges in physical activities and deliver creative solutions (hacks) with technology. 
 
 <!--
 that inspires you to think of needs, wants and challenges in interacting with animals. 
