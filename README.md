@@ -14,11 +14,11 @@ sports analytics
 
 PhysTech is a student-organized online hackathon for anyone who does, watches, analyzes and promotes any physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. 
 
-Any sports and physical training are in. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not! 
+PhysTech welcomes any types of physical activities. Sports and physical training are in. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not! 
 
-Not only athletes and recreational players/practitioners, but fans, coaches, referees/judges and analysts are also welcome. 
+Not only athletes and recreational players/practitioners, but fans, coaches, referees/judges and analysts are also welcome. You would be a great participant for PhysTech as far as you love what you are doing. 
 
-PhysTech offers a platform for you to address needs, wants and challenges in physical activities and deliver creative solutions (hacks) with technology. 
+PhysTech offers a platform for you to address needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology. 
 
 <!--
 that inspires you to think of needs, wants and challenges in interacting with animals. 
@@ -44,7 +44,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 <a name="organizers"></a>
 ## Organizers
 
-PhysTech 2024 (June 30, 2024)
+PhysTech 2024
 
 - Hiroki Kudara
 - Rei Nagata
