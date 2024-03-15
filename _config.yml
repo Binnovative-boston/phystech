@@ -15,6 +15,7 @@ show_downloads: false
 #google_analytics: 
 
 plugins:
-- jekyll-remote-theme 
-
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
