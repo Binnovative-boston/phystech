@@ -44,7 +44,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 <a name="organizers"></a>
 ## Organizers
 
-- PhysTech 2024
+- [PhysTech 2024](2024.md)
   - Hiroki Kudara
   - Rei Nagata
   - Shun Nagata (Co-chair)
