@@ -1,4 +1,6 @@
-# Physical Activity and Technology Hack Day (PhysTech)
+<h1 style="text-align: center;">
+Physical Activity and Technology Hack Day (PhysTech)
+</h1>
 
 We are a group of students from the New York and Boston areas who are enthusiastic about physical activities. We started PhysTech in 2024 because there was no hackathon avaialble at that time for presenting our projects. 
 
