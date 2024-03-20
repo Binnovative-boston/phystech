@@ -50,6 +50,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
   - Hiroki Kudara
   - Rei Nagata
   - Shun Nagata (Co-chair)
+  - Koki Okusha
   - Sarasa Ouchi (Co-chair)
   - Hanna Suzuki
   - Nikichi Tsuchida
