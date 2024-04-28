@@ -14,7 +14,7 @@ are enthusiastic about
 sports analytics 
 -->
 
-PhysTech is an online hackathon for anyone who does, watches, analyzes and promotes any physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. 
+PhysTech is an online international hackathon for anyone who does, watches, analyzes and promotes physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. 
 
 PhysTech welcomes any types of physical activities. Sports and physical training are in. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not! 
 
