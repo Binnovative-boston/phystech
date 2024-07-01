@@ -54,7 +54,6 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
   - Sarasa Ouchi (Co-chair)
   - Hanna Suzuki
   - Nikichi Tsuchida
-  - Uta Tsuchida
   
 <a name="merchandise"></a>
 ## Merchandise
