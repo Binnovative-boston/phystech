@@ -11,153 +11,31 @@ June 30, 2024 (Sun), EST
 [<a href="#overview">Overview</a> | <a href="#requirements">Requirements</a> | <a href="#prizes">Prizes</a> | <a href="#judges">Judges</a> | <a href="#organizers">Organizers</a> | <a href="#merchandise">Merchandise</a>]
 </p>
 
-## Award Winners of PhysTech 2024:
+We publish the proceedings of each AnimalHack event as a book through Amazon Kindle Direct Publishing (KDP). Selected participants will be invited to extend their project abstracts and publish them as book chapters. 
 
-**Grand Prix:**
-- Anshul Kotagiri, PushUpPro - The best way to work out! 
+## Proceedings of PhysTech 2024
+<a name="book24"></a>
 
-**2nd Place:** 
-- Nikichi Tsuchida, Fencing Acceleration Tracker!
+Shun Nagata and Sarasa Ouchi (eds.), Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
 
-**3rd Place:** 
-- Hanna Suzuki, Portable WBGT Tracker for Outdoor Athletes in the Heat
+<p align="center">
+<img src="images/cover.png" width="450">
 
-**Honorable Mention:** 
-- Hiroki Kudara, Soccer Display
+**Book cover design: Rimi Yoshikawa**<br>
+</p>
 
-**Excellence in Research Award:** 
-- Shun Nagata, RCV Visualizer
+This book showcases a selection of award-winning projects from PhysTech 2024. PhysTech is an annual international hackathon for anyone who does, watches, analyzes and promotes any physical ac-tivities – including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. It offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
 
-**Excellence in Entrepreneurship Award:** 
-- Eshan Aditya Vasipalli, Active+
-- Don Tjandra, TaijiFlow
+This book consists of the following 8 chapters:
 
-**Excellence in Creativity Award:**
-- Hanna Suzuki, Glow in the Dark Skateboard
+- Chapter 1: Hanna Suzuki, Glow in the Dark Skateboard: A Futuristic and Smart
+Skateboard
+- Chapter 2: Rei Nagata: Fishing Tracker
+- Chapter 3: Nikichi Tsuchida, Fencing Priority Referee: A Wearable Sensor for Data-centric Priority Judgment
+- Chapter 4: Shun Nagata, Runs Created Value (RCV):A New Batting Performance Sta-tistic in Baseball
+- Chapter 5: Hanna Suzuki, Portable WBGT Tracker forOutdoor Athletes in the Heat
+- Chapter 6: Vasipalli Eshan Aditya, Active+
+- Chapter 7, Anshul Kotagiri, PushUpPro
+- Chapter 8, Hiroki Kudara, Soccer Display
 
-**Emerging Talent Award:**
-- Rei Nagata, Fishing Tracker
 
-See [this Devpost page](https://phystech-2024-20890.devpost.com/project-gallery) for 
-
-## Hackathon Overview:
-<a name="overview"></a>
-PhysTech is an online international hackathon for anyone who does, watches, analyzes and promotes physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures.
-
-PhysTech welcomes any types of physical activities. Sports, physical training and exercise are in. Yoga, pilates, jogging, cycling and hiking? Of course. Skiing, skating, swimming, dancing, ballet, kayaking, skateboarding, rock/mountain climbing or horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheerleading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not!
-
-Not only athletes and recreational players/practitioners, but fans, coaches, referees/judges and analysts are also welcome.
-
-PhysTech offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
-
-PhysTech welcomes anyone of all ages and all technical skills, from limited experience to advanced.
-
-Entry is free.
-
-## Expected Project Topics:
-
-Expected project topics include, but are not limited to: 
-
-- Monitoring and enhancing performance
-- Logging and tracking practice, training and exercise
-- Recording, analyzing and communicating activity data 
-- Applying data analytics to physical activity
-- Enhancing fan experience 
-- Increasing participation/engagement in physical activity
-- Promoting health and wellness though physical activity
-- Preventing and helping heal from injuries
-- Improving dietary and nutritional assistance 
-- Protecting and improving the environment for physical activity
-
-<!--
-- Analyzing professional sports
-- Enhancing sports performance
-- Improving your physical well-beings
-- Encouraging physical activity to others
-- Tracking exercise progress
--->
-
-Solutions can take many different forms such as apps, games, social platforms, web sites/services, devices, sensors, robots, audio/video, data collection/storage, data analysis/forecasts, data visualization, information retrieval, and 3-dimensional modeling/printing. 
-
-<a name="requirements"></a>
-## Requirements:
-
-**Project Work:** PhysTech is a “flexible” online hackathon. You can work on your project anytime until 12pm on June 29 (Sat), EST.
-
-**Project Submission:** You are required to complete **ALL of the following 3 requirements:**
-
-- Submit your project to [Depost](https://phystech-2024-20890.devpost.com/) by **12pm on June 29 (Sat), EST**.
-- Register your project presentation on a Google Forms page by **12pm on June 29 (Sat), EST**.
-- Give a project presentation online at **June 30 (Sun), EST**.
-
-The deadlines are firm. No extensions will be given. Failure to meet the above requirements will disqualify you (and your team) in award judging. 
-
-A link for presentation registration will be shared in the PhysTech 2024 channel of Discord. To register your presentation, you will be asked to submit:
-
-- Your name and contact info
-- Your country of residence
-- Your project presentation title
-- An abstract (short one-paragraph description) of your project
-- A publicly accessible link to your project placed on a cloud-based code repository (e.g. GitHub) or storage (e.g. Google Drive). We will verify the actual outcome of your work with this link in the afternoon of June 29. Please note that **we will not schedule your presentation if we cannot verify your actual work**. You can submit a link to your project on Devpost; however, please make sure that the link references the actual outcome of your work. 
-
-**Project presentation:** We will announce the schedule of project presentations (i.e. what time each presentation starts) by early morning of June 30 (Sun), EST. A Zoom link will be made available in the PhysTech 2024 channel of Discord. 
-
-In our current plan, you will have 10 minutes in total for your presentation, including approx. 3 minutes for QAs with judges and other participants. 
-
-<a name="prizes"></a>
-## Prizes and Judging:
-
-**Certificates:** Every participant will receive a certificate of participation. 
-
-**Prizes:** 
-
-- Grand Prix (1st Place)
-- 2nd Place
-- 3rd Place
-- Honorable Mention (x4)
-- Excellence in Innovation Award
-- Excellence in Research Award
-- Excellence in Creativity Award
-- Excellence in Entrepreneurship Award
-- Emerging Talent Award
-- Key Contributor Award
-
-A panel of judges will select and announce prize winners at the end of the event. Prize winners will receive special certificates.
-
-**Book chapter publication:** We will publish a book that features the projects presented at PhysTech 2024. Selected participants will be invited to extend their project abstracts and publish them as book chapters. We are planning to publish this book through Amazon Kindle Direct Publishing.
-
-**Judging Criteria:**
-
-- **Impact:** How much impact (quality and quantity) can this project have? Does it solve a big problem or a small problem? Will it inspire or help many or a few?
-- **Creativity:** How creative/innovative is this project? Is it something that hasn’t been attempted before, or is it an incremental improvement on something that already exists?
-- **Presentation:** How well did the team/individual communicate this project? Was the presentation effective in telling the story of the project: why it is important, what challenge it addresses, and how it delivers a solution?
-
-<a name="judges"></a>
-## Judges: 
-
-- Harish Kamath
-- PhysTech Advisory Board
-
-<a name="organizers"></a>
-## Organizing Committee:
-
-- Hiroki Kudara
-- Rei Nagata
-- Shun Nagata (Co-chair)
-- Koki Okusha
-- Sarasa Ouchi (Co-chair)
-- Hanna Suzuki
-- Nikichi Tsuchida
-
-<a name="merchandise"></a>
-## Merchandise:
-
-We run an online store where you can find gifts for yourself, family members and friends.
-
-<a href="https://www.bonfire.com/phystech2024-tshirt/"><img src="images/tshirt24-1.jpg" width="150"></a>
-
-<a href="https://www.bonfire.com/phystech2024-t-shirt2/"><img src="images/tshirt24-2.jpg" width="150"></a>
-
-<a href="https://www.bonfire.com/phystech2024-hoodie/"><img src="images/hoodie24.jpg" width="150"></a>
-
-<a href="https://www.bonfire.com/phystech2024-mug/"><img src="images/mug24.jpg" width="150"></a>
