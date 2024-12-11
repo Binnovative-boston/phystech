@@ -1,27 +1,17 @@
 <h1 style="text-align: center;">
-PhysTech 2024
-</h1>
-<h3 style="text-align: center;">
-Physical Activity and Technology Hack Day
-</h3>
-<h3 style="text-align: center;">
-June 30, 2024 (Sun), EST
-</h3>
-<p style="text-align: center;">
-[<a href="#overview">Overview</a> | <a href="#requirements">Requirements</a> | <a href="#prizes">Prizes</a> | <a href="#judges">Judges</a> | <a href="#organizers">Organizers</a> | <a href="#merchandise">Merchandise</a>]
-</p>
+Annual PhysTech Proceedings</h1>
 
 We publish the proceedings of each AnimalHack event as a book through Amazon Kindle Direct Publishing (KDP). Selected participants will be invited to extend their project abstracts and publish them as book chapters. 
 
-## Proceedings of PhysTech 2024
 <a name="book24"></a>
+## Proceedings of PhysTech 2024
 
 Shun Nagata and Sarasa Ouchi (eds.), Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
 
 <p align="center">
-<img src="images/cover.png" width="450">
+<img src="images/cover.png" width="300">
 
-**Book cover design: Rimi Yoshikawa**<br>
+<b>Book cover design: Rimi Yoshikawa</b>
 </p>
 
 This book showcases a selection of award-winning projects from PhysTech 2024. PhysTech is an annual international hackathon for anyone who does, watches, analyzes and promotes any physical ac-tivities – including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. It offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
