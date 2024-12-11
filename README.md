@@ -36,7 +36,7 @@ Entry is free.
 
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
-- PhysTech 2025 (June, 2025)
+- [PhysTech 2025](2025.md) (June, 2025)
 - [PhysTech 2024](2024.md) (June 30, 2024)
 
 <a name="books"></a>
@@ -48,6 +48,8 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 <a name="organizers"></a>
 ## Organizers
+
+- [PhysTech 2025](2025.md) (June 2025)
 
 - [PhysTech 2024](2024.md) (June 2024)
   - Hiroki Kudara
