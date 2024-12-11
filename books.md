@@ -1,16 +1,16 @@
 <h1 style="text-align: center;">
 Annual PhysTech Proceedings</h1>
 
-We publish the proceedings of each AnimalHack event as a book through Amazon Kindle Direct Publishing (KDP). Selected participants will be invited to extend their project abstracts and publish them as book chapters. 
+We publish the proceedings of each AnimalHack event as a book through Amazon Kindle Direct Publishing (KDP). Selected participants are invited to extend their project abstracts and publish them as book chapters. 
 
 <a name="book24"></a>
 ## Proceedings of PhysTech 2024
 
-Shun Nagata and Sarasa Ouchi (eds.), Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
+Shun Nagata and Sarasa Ouchi (eds.), *Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024*, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
 
 <p align="center">
 <img src="images/cover.png" width="300">
-
+<br>
 <b>Book cover design: Rimi Yoshikawa</b>
 </p>
 
