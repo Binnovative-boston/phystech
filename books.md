@@ -14,29 +14,31 @@ June 30, 2024 (Sun), EST
 ## Award Winners of PhysTech 2024:
 
 **Grand Prix:**
-- Anshul Kotagiri, [PushUpPro - The best way to work out!](https://devpost.com/software/pushuppro-fslbdr)
+- Anshul Kotagiri, PushUpPro - The best way to work out! 
 
 **2nd Place:** 
-- Nikichi Tsuchida, [Fencing Acceleration Tracker!](https://devpost.com/software/fencing-acceleration-tracker)
+- Nikichi Tsuchida, Fencing Acceleration Tracker!
 
 **3rd Place:** 
-- Hanna Suzuki, [Portable WBGT Tracker for Outdoor Athletes in the Heat](https://devpost.com/software/portable-wbgt-tracker-for-outdoor-athletes-in-the-heat)
+- Hanna Suzuki, Portable WBGT Tracker for Outdoor Athletes in the Heat
 
 **Honorable Mention:** 
-- Hiroki Kudara, [Soccer Display](https://devpost.com/software/soccer-display)
+- Hiroki Kudara, Soccer Display
 
 **Excellence in Research Award:** 
-- Shun Nagata, [RCV Visualizer](https://devpost.com/software/rcv-visualizer)
+- Shun Nagata, RCV Visualizer
 
 **Excellence in Entrepreneurship Award:** 
-- Eshan Aditya Vasipalli, [Active+](https://devpost.com/software/active-ckvpr0)
-- Don Tjandra, [TaijiFlow](https://devpost.com/software/taijiflow)
+- Eshan Aditya Vasipalli, Active+
+- Don Tjandra, TaijiFlow
 
 **Excellence in Creativity Award:**
-- Hanna Suzuki, [Glow in the Dark Skateboard](https://devpost.com/software/glow-in-the-dark-skateboard)
+- Hanna Suzuki, Glow in the Dark Skateboard
 
 **Emerging Talent Award:**
-- Rei Nagata, [Fishing Tracker](https://devpost.com/software/fishing-tracker)
+- Rei Nagata, Fishing Tracker
+
+See [this Devpost page](https://phystech-2024-20890.devpost.com/project-gallery) for 
 
 ## Hackathon Overview:
 <a name="overview"></a>
