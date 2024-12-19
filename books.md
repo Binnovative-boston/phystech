@@ -14,7 +14,7 @@ Shun Nagata and Sarasa Ouchi (eds.), *[Technology Hacks for Fitness, Sports and 
 <b>Book cover design: Rimi Yoshikawa</b>
 </p>
 
-This book showcases a selection of award-winning projects from PhysTech 2024. PhysTech is an annual international hackathon for anyone who does, watches, analyzes and promotes any physical ac-tivities – including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. It offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
+This book showcases a selection of award-winning projects from PhysTech 2024. PhysTech is an annual international hackathon for anyone who does, watches, analyzes and promotes any physical activities – including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. It offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
 
 This book consists of the following 8 chapters:
 
@@ -22,7 +22,7 @@ This book consists of the following 8 chapters:
 Skateboard
 - Chapter 2: Rei Nagata: Fishing Tracker
 - Chapter 3: Nikichi Tsuchida, Fencing Priority Referee: A Wearable Sensor for Data-centric Priority Judgment
-- Chapter 4: Shun Nagata, Runs Created Value (RCV):A New Batting Performance Sta-tistic in Baseball
+- Chapter 4: Shun Nagata, Runs Created Value (RCV):A New Batting Performance Statistic in Baseball
 - Chapter 5: Hanna Suzuki, Portable WBGT Tracker forOutdoor Athletes in the Heat
 - Chapter 6: Vasipalli Eshan Aditya, Active+
 - Chapter 7: Anshul Kotagiri, PushUpPro
