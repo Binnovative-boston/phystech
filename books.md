@@ -6,7 +6,7 @@ We publish the proceedings of each AnimalHack event as a book through Amazon Kin
 <a name="book24"></a>
 ## Proceedings of PhysTech 2024
 
-Shun Nagata and Sarasa Ouchi (eds.), *Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024*, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
+Shun Nagata and Sarasa Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](https://www.amazon.com/dp/B0DQX74Y9H)*, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024.
 
 <p align="center">
 <img src="images/cover.png" width="300">
@@ -25,7 +25,7 @@ Skateboard
 - Chapter 4: Shun Nagata, Runs Created Value (RCV):A New Batting Performance Sta-tistic in Baseball
 - Chapter 5: Hanna Suzuki, Portable WBGT Tracker forOutdoor Athletes in the Heat
 - Chapter 6: Vasipalli Eshan Aditya, Active+
-- Chapter 7, Anshul Kotagiri, PushUpPro
-- Chapter 8, Hiroki Kudara, Soccer Display
+- Chapter 7: Anshul Kotagiri, PushUpPro
+- Chapter 8: Hiroki Kudara, Soccer Display
 
 
