@@ -64,10 +64,16 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
   - Sarasa Ouchi (Co-chair)
   - Hanna Suzuki
   - Nikichi Tsuchida
-  
+
+## Advisory Board:
+
+- Eriko Nishimoto
+- Sarasa Ouchi
+
 <a name="merchandise"></a>
 ## Merchandise
 
 We run an online store where you can find gifts for yourself, family members and friends.  
 
-- [PhysTech 2024 ](2024.md#merchandise)
+- PhysTech 2025
+- [PhysTech 2024](2024.md#merchandise)
