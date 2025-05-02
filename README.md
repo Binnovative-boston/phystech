@@ -80,5 +80,5 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 We run an online store where you can find gifts for yourself, family members and friends.  
 
-- PhysTech 2025
+- [PhysTech 2025](2025.md#merchandise)
 - [PhysTech 2024](2024.md#merchandise)
