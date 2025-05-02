@@ -37,7 +37,9 @@ Entry is free.
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
 - [PhysTech 2025](2025.md) (June 29, 2025)
+  - [Devpost page](https://phystech2025.devpost.com/)
 - [PhysTech 2024](2024.md) (June 30, 2024)
+  - [Devpost page](https://phystech-2024-20890.devpost.com/)
 
 <a name="books"></a>
 ## Books
@@ -50,9 +52,12 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 ## Organizers
 
 - [PhysTech 2025](2025.md) (June 2025)
+  - Konomi Karube
+  - Naomi McCreary
   - Rei Nagata (Co-chair)
   - Shun Nagata (Co-chair)
   - Hanna Suzuki (Co-chair)
+  - Sougou Tojima
   - Alyssa Yasuhara
   - Rimi Yoshikawa
 
