@@ -46,6 +46,8 @@ Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
 We publish the proceedings of each PhysTech event as a book through Amazon Kindle Direct Publishing. Selected participants are invited to extend their project abstracts and publish them as book chapters.
 
+- R. Nagata, H. Suzuki and S. Nagata (eds.), Innovation in Motion: Technology Hacks from PhysTech 2025, Binnovative Innovation Book Series, 144 pages, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
+
 - Shun Nagata and Sarasa Ouchi (eds.), *[Technology Hacks for Fitness, Sports and Outdoor Activities: Innovative Projects from PhysTech 2024](books.md#book24)*, Binnovative Innovation Book Series, 109 pages, Binnovative, ISBN: 979-8-3031-7444-3, December 2024. 
 
 <a name="organizers"></a>
