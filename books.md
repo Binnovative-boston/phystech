@@ -6,7 +6,7 @@ We publish the proceedings of each AnimalHack event as a book through Amazon Kin
 <a name="book25"></a>
 ## Proceedings of PhysTech 2025
 
-R. Nagata, H. Suzuki and S. Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, 144 pages, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
+Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, 144 pages, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
 
 <p align="center">
 <img src="images/cover25.jpg" width="300">
