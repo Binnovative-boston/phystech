@@ -38,6 +38,7 @@ Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
 - PhysTech 2026 (June 2026)
 - [PhysTech 2025](2025.md) (June 29, 2025)
+  - Devpost page: TBA
   - [Devpost page](https://phystech2025.devpost.com/)
 - [PhysTech 2024](2024.md) (June 30, 2024)
   - [Devpost page](https://phystech-2024-20890.devpost.com/)
@@ -54,7 +55,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 <a name="organizers"></a>
 ## Organizers
 
-PhysTech 2026 (June 2026)
+- PhysTech 2026 (June 2026)
   - TBA
 
 - [PhysTech 2025](2025.md) (June 2025)
