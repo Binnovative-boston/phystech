@@ -55,8 +55,13 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 <a name="organizers"></a>
 ## Organizers
 
-- PhysTech 2026 (June 2026)
-  - TBA
+- [PhysTech 2026](2026.md) (June 2026)
+  - Konomi Karube  (Co-chair)
+  - Naomi McCreary
+  - Rei Nagata (Co-chair)
+  - Hanna Suzuki (Co-chair)
+  - Alyssa Yasuhara  (Co-chair)
+  - Rimi Yoshikawa
 
 - [PhysTech 2025](2025.md) (June 2025)
   - Konomi Karube
@@ -79,7 +84,6 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 ## Advisory Board:
 
-- Eriko Nishimoto
 - Sarasa Ouchi
 
 <a name="merchandise"></a>
