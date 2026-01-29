@@ -84,6 +84,7 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 
 ## Advisory Board:
 
+- Shun Nagata
 - Sarasa Ouchi
 
 <a name="merchandise"></a>
