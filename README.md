@@ -14,14 +14,15 @@ are enthusiastic about
 sports analytics 
 -->
 
-PhysTech is an online international hackathon for anyone who does, watches, analyzes and promotes physical activities - including sports, workouts, fitness exercises, casual hobbies/pastimes and recreational adventures. 
+PhysTech is an online international hackathon for anyone who does, watches, analyzes and promotes physical activities - including sports, workouts, fitness exercises, casual hobbies, and recreational adventures.
 
-PhysTech welcomes any types of physical activities. Sports and physical training are in. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Sure. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not! 
+All types of physical activities are welcome. Traditional sports and athletic training? Absolutely. Yoga, pilates, ballet? Of course. Swimming, kayaking, cycling, dancing, skateboarding, rock/mountain climbing, hiking, horseback riding? Definitely. Fishing, bowling, paddleboarding, scuba diving, rafting, cheer leading, outdoor bird watching, gardening, kite flying, disk golf (frisbee), or cornhole? Why not!
 
-Not only athletes and recreational players, but fans, coaches, referees/judges and analysts are also welcome. 
+PhysTech is open not only to athletes and recreational participants, but also to fans, coaches, referees/judges, and analysts.
+
 <!--You would be a great participant in PhysTech as far as you love what you are doing.-->
 
-PhysTech offers you a platform to address various needs, wants and challenges in physical activities and produce creative solutions (hacks) with technology.
+PhysTech offers you a platform to identify needs, wants and challenges in physical activities and develop creative, technology-driven solutions (hacks) to address them. 
 <!--
 that inspires you to think of needs, wants and challenges in interacting with animals. 
 It is intended to help you ignite creative solutions (hacks) with technology and innovate human-animal relationships.
