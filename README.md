@@ -38,7 +38,7 @@ Entry is free.
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
 - [PhysTech 2026](2026.md) (June 28, 2026)
-  - Devpost page: TBA
+  - [Devpost page](https://phystech-2026.devpost.com/)
 - [PhysTech 2025](2025.md) (June 29, 2025)
   - [Devpost page](https://phystech2025.devpost.com/)
 - [PhysTech 2024](2024.md) (June 30, 2024)
