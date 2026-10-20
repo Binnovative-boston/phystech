@@ -37,6 +37,8 @@ Entry is free.
 
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
+- PhysTech 2027 (June 2027)
+  - Devpost page (TBA)
 - [PhysTech 2026](2026.md) (June 28, 2026)
   - [Devpost page](https://phystech-2026.devpost.com/)
 - [PhysTech 2025](2025.md) (June 29, 2025)
@@ -48,6 +50,8 @@ Launched in 2024, PhysTech takes place annually – usually in the end of June.
 ## Books
 
 We publish the proceedings of each PhysTech event as a book through Amazon Kindle Direct Publishing. Selected participants are invited to extend their project abstracts and publish them as book chapters.
+
+- Konomi Karube, Hanna Suzuki, Alyssa Yasuhara, and Rei Nagata (eds.) *[Hack What Moves You: Technology Innovations for Fitness, Sports and Active Living from PhysTech 2026](books.md#book26)*, Binnovative Innovation Book Series, 76 pages, ISBN: 9798-1948-1565-4, October 2026.
 
 - Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](books.md#book25)*, Binnovative Innovation Book Series, 144 pages, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
 
