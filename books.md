@@ -25,7 +25,7 @@ This book consists of the following 4 chapters:
 
 
 <a name="book25"></a>
-## Proceedings of PhysTech 2025
+## Proceedings of PhysTech 2026
 
 Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, 144 pages, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
 
