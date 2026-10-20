@@ -6,6 +6,27 @@ We publish the proceedings of each AnimalHack event as a book through Amazon Kin
 <a name="book25"></a>
 ## Proceedings of PhysTech 2025
 
+Konomi Karube, Hanna Suzuki, Alyssa Yasuhara, and Rei Nagata (eds.) *[Hack What Moves You: Technology Innovations for Fitness, Sports and Active Living from PhysTech 2026](https://www.amazon.com/dp/B0HMQSXRY5)*, Binnovative Innovation Book Series, 76 pages, ISBN: 9798-1948-1565-4, October 2026.
+
+<p align="center">
+<img src="images/cover26.jpg" width="300">
+<br>
+<b>Book cover design: Rimi Yoshikawa</b>
+</p>
+
+This book showcases award-winning projects from PhysTech 2026. PhysTech is a student-led international hackathon for anyone who participates in, watches, analyzes, or promotes physical activity, including sports, workouts, fitness exercises, casual hobbies, and recreational adventures. 
+
+This book consists of the following 4 chapters:
+
+- Chapter 1: Pham Bui My Linh, PhysTris: Combine Tetris with Physical Activity
+- Chapter 2: Konomi Karube, HydroFlow Band
+- Chapter 3: Alyssa Yasuhara, Safety Run: Navigation Device for Runners
+- Chapter 4: Hanna Suzuki, Event-Driven Gain in Expectancy (EDGE): A Probabilistic Metric for Comprehensive Player Performance in Tennis
+
+
+<a name="book25"></a>
+## Proceedings of PhysTech 2025
+
 Rei Nagata, Hanna Suzuki and Shun Nagata (eds.), *[Innovation in Motion: Technology Hacks from PhysTech 2025](https://www.amazon.com/dp/B0FR13T4KH)*, 144 pages, Binnovative Innovation Book Series, Binnovative, ISBN: 979-8-2639-6243-2, September 2025.
 
 <p align="center">
