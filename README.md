@@ -2,7 +2,7 @@
 Physical Activity and Technology Hack Day (PhysTech)
 </h1>
 
-We are a group of students from the New York, Boston, and Seattle areas who are enthusiastic about physical activities. We started PhysTech in 2024 because there was no hackathon available at that time for presenting our projects. 
+We are a group of students from the Boston, New York, New Jersey, and Seattle areas who are enthusiastic about physical activities. We started PhysTech in 2024 because there was no hackathon available at that time for presenting our projects. 
 
 <!-- fitness and wellbeing
 
@@ -37,7 +37,7 @@ Entry is free.
 
 Launched in 2024, PhysTech takes place annually – usually in the end of June.
 
-- PhysTech 2027 (June 2027)
+- [PhysTech 2027](2027.md) (June 27, 2027)
   - Devpost page (TBA)
 - [PhysTech 2026](2026.md) (June 28, 2026)
   - [Devpost page](https://phystech-2026.devpost.com/)
@@ -60,6 +60,9 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 <a name="organizers"></a>
 ## Organizers
 
+- [PhysTech 2027](2027.md) (June 2027)
+  - Hanna Suzuki (Co-chair)
+  - 
 - [PhysTech 2026](2026.md) (June 2026)
   - Konomi Karube  (Co-chair)
   - Naomi McCreary
