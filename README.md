@@ -61,8 +61,10 @@ We publish the proceedings of each PhysTech event as a book through Amazon Kindl
 ## Organizers
 
 - [PhysTech 2027](2027.md) (June 2027)
+  - Naomi McCreary
   - Hanna Suzuki (Co-chair)
-  - 
+  - Alyssa Yasuhara (Co-chair)
+
 - [PhysTech 2026](2026.md) (June 2026)
   - Konomi Karube  (Co-chair)
   - Naomi McCreary
